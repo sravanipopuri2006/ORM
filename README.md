@@ -39,11 +39,11 @@ class students(models.Model):
 
 
 ## OUTPUT
-![image](https://github.com/sravanipopuri2006/ORM/assets/139778301/cd11940e-7e8c-4ec2-85ec-b006cb5a0264)
-![image](https://github.com/sravanipopuri2006/ORM/assets/139778301/de22fb01-272a-411f-959a-2bba2ee288d1)
+
+![image](https://github.com/sravanipopuri2006/ORM/assets/139778301/eefbdc0a-7028-484c-842d-b90d00a17066)
 
 
-
+![image](https://github.com/sravanipopuri2006/ORM/assets/139778301/2b6aeaef-c51a-4e84-aa6d-5d3dcc14a950)
 
 
 
